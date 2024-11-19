@@ -1,4 +1,4 @@
-# Ti Amu - Animação do Envelope
+# Carta de amor - Animação do Envelope
 
 Este é um projeto de animação interativa onde você pode enviar uma mensagem de amor de uma forma criativa! A animação simula um envelope que se abre, revelando uma mensagem especial. O design é inspirado em um envelope animado com corações flutuando, perfeito para ocasiões especiais como aniversários ou datas comemorativas.
 
