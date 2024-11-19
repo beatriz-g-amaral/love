@@ -19,4 +19,4 @@ Este é um projeto de animação interativa onde você pode enviar uma mensagem 
 Clone este repositório para sua máquina local:
 
 ```bash
-git clone https://github.com/yourusername/ti-amu.git
+git clone https://github.com/yourusername/love.git
